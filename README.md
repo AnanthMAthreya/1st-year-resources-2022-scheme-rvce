@@ -25,20 +25,20 @@ HUMANITIES & SOCIAL SCIENCES COURSES
 2) Scientific Foundations of Health: Yoga Practice(HSS115YL/HSS125YL)
 3) Balake Kannada(HSS113BK/HSS123BK)
 
-This repository also contains a few selected chapters for all the 1st year Math courses, of the textbook "Higher Engineering Mathematics" by Dr. BS grewal. Those chapters are:
-1) Linear Algebra->31-89,1247-1251
-2) Differential Calculus->148-210,1254-1258
-3) Partial Differentiation->211-252,1258-1260
-4) Multiple Integrals->288-328,1262-1264
-5) Vector Calculus->329-378,1264-1266
-6) Linear DE->485-515,1274-1277
-7) Applications of LDE->516-544,1277-1279
-8) PDE->591-613,1282-1284
-9) Applications of PDE->614-652,1284-1286
-10) Laplace transforms->740-779,1292-1296
-11) Statistical Methods->844-870,1299,1300
-12) Numerical Methods->932-959,1304,1305
-13) Finite differences and interpolation->960-993,1305,1306
-14) Numerical differentiation and integration->994-1011,1307
-15) Numerical solution of ODE->1022-1053,1309,1310
+This repository also contains a few selected chapters for all the 1st year Math courses, of the textbook "Higher Engineering Mathematics" by Dr. BS Grewal. Those chapters are:
+1) Linear Algebra
+2) Differential Calculus
+3) Partial Differentiation
+4) Multiple Integrals
+5) Vector Calculus
+6) Linear DE
+7) Applications of LDE
+8) PDE
+9) Applications of PDE
+10) Laplace transforms
+11) Statistical Methods
+12) Numerical Methods
+13) Finite differences and interpolation
+14) Numerical differentiation and integration
+15) Numerical solution of ODE
 
