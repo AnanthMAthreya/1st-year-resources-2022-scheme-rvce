@@ -13,6 +13,7 @@ PROFESSIONAL CORE COURSES
 ENGINEERING SCIENCE COURSES
 1) Principles of Electronics Engineering(EC113AT / EC123AT)
 2) Fundamentals of Mechanical Engineering(ME113AT/ME123AT)
+3) Basics of Electrical Engineering(EE113AT/EE123AT)
 
 EMERGING TECHNOLOGY COURSES
 1) Introduction to Embedded Systems(EC114BT / EC124BT)
