@@ -1,6 +1,7 @@
 Contributors:
 1) Ananth M Athreya
 2) Aditi Shastri https://github.com/AditiShastri
+
 This repository contains the resources of the following 1st year courses in the 2022 scheme of RV College of Engineering
 
 Applied Science Courses
