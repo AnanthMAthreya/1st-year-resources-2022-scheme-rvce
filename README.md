@@ -1,6 +1,6 @@
 # Contributors
-1) [Ananth M Athreya](https://github.com/AnanthMAthreya)
-2) [Aditi Shastri](https://github.com/AditiShastri)
+1) Ananth M Athreya [Github](https://github.com/AnanthMAthreya)
+2) Aditi Shastri [Github](https://github.com/AditiShastri)
 # Introduction
 This repository contains the resources of the following 1st year courses in the 2022 scheme of RV College of Engineering
 # Courses in this repository
