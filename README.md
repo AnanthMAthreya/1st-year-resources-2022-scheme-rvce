@@ -43,5 +43,3 @@ This repository also contains a few selected chapters for all the 1st year Math 
 13) Finite differences and interpolation
 14) Numerical differentiation and integration
 15) Numerical solution of ODE
-# Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=AnanthMAthreya/1st-year-resources-2022-scheme-rvce.git&type=Timeline)](https://star-history.com/#AnanthMAthreya/1st-year-resources-2022-scheme-rvce.git&Timeline)
