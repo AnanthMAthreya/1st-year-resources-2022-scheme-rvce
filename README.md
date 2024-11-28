@@ -19,6 +19,7 @@ This repository contains the resources of the following 1st year courses in the 
 ## Emerging Technology Courses
 1) [Introduction to Embedded Systems(EC114BT / EC124BT)](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-rvce/tree/main/Emerging%20Technology%20Courses(ETC)/Embedded%20systems(22EM211))
 2) [ELEMENTS OF BLOCKCHAIN TECHNOLOGY(CS114AT / CS124AT)](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-rvce/tree/main/Emerging%20Technology%20Courses(ETC)/Blockchain(CS124AT))
+3) [Introduction to Internet of Things(AI114ATA)](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-rvce/tree/main/Emerging%20Technology%20Courses(ETC)/Introduction%20to%20Internet%20of%20Things(AI114ATA))
 ## Programming Language Lab Courses
 [Introduction to Python Programming(AI115AI / AI125AI)](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-rvce/tree/main/Programming%20Language%20Course(PLC)/Python%20PLC)
 ## Humanities & Social Sciences Courses
