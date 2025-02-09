@@ -52,7 +52,7 @@ This repository also contains a few selected chapters for all the 1st year Math 
   + If you want to add materials to a course that is not there on this repo, create a folder and send a push request.
   + Otherwise, just add files to the course folder and send a push request.
   You will get credits.
-- If you are not familiar with using GitHub, then please send materials to ananthmathreya@gmail.com
+- If you are not familiar with using GitHub, then please refer [instruction manual](https://github.com/AnanthMAthreya/HowToContribute)
 # See more
 - [2nd year resources](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce)
 - [3rd year resources](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce)
