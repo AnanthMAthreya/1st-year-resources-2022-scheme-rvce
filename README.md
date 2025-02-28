@@ -1,6 +1,7 @@
 # Contributors
 1) Ananth M Athreya [Github](https://github.com/AnanthMAthreya)
 2) Aditi Shastri [Github](https://github.com/AditiShastri)
+3) [dath2006](https://github.com/dath2006)
 # Introduction
 This repository contains the resources of the following 1st year courses in the 2022 scheme of RV College of Engineering
 # Courses in this repository
@@ -26,6 +27,7 @@ This repository contains the resources of the following 1st year courses in the 
 1) [Fundamentals of Indian Constitution(HSS114CT/HSS124CT)](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-rvce/tree/main/1st_sem/Indian%20constitution)
 2) [Scientific Foundations of Health: Yoga Practice(HSS115YL/HSS125YL)](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-rvce/tree/main/1st_sem/Indian%20constitution)
 3) [Balake Kannada(HSS113BK/HSS123BK)](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-rvce/tree/main/2nd%20sem)
+4) [Samskruthika Kannada(HS112KS/HS122KS)](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-rvce/tree/main/2nd%20sem/Samskrithika%20Kannada%20(HS112KS))
 ## BS Grewal Textbook
 This repository also contains a few selected chapters for all the 1st year Math courses, of the textbook [Higher Engineering Mathematics](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-rvce/tree/main/BS%20Grewal%20Math%20textbook) by Dr. BS Grewal. Those chapters are:
 1) Linear Algebra
