@@ -16,7 +16,7 @@ This repository contains the resources of the following 1st year courses in the 
 ## Engineering Science Courses
 1) [Principles of Electronics Engineering(EC113AT / EC123AT)](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-rvce/tree/main/Engineering%20Science%20courses(ESC)/Electronics%20ESC)
 2) [Fundamentals of Mechanical Engineering(ME113AT/ME123AT)](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-rvce/tree/main/Engineering%20Science%20courses(ESC)/Mechanical(22ES24E))
-3) [Basics of Electrical Engineering](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-rvce/tree/main/Engineering%20Science%20courses(ESC)/Electrical%20ESC(EE113AT%2CEE123AT))
+3) [Basics of Electrical Engineering(EE113ATD/EE123ATD)](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-rvce/tree/main/Engineering%20Science%20courses(ESC)/Electrical%20ESC(EE113AT%2CEE123AT))
 ## Emerging Technology Courses
 1) [Introduction to Embedded Systems(EC114BT / EC124BT)](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-rvce/tree/main/Emerging%20Technology%20Courses(ETC)/Embedded%20systems(22EM211))
 2) [ELEMENTS OF BLOCKCHAIN TECHNOLOGY(CS114AT / CS124AT)](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-rvce/tree/main/Emerging%20Technology%20Courses(ETC)/Blockchain(CS124AT))
