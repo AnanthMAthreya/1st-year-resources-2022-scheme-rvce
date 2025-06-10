@@ -1,13 +1,20 @@
 # Contributors
 1) Ananth M Athreya [Github](https://github.com/AnanthMAthreya)
 2) Aditi Shastri [Github](https://github.com/AditiShastri)
-3) Sathish Datt [Github](https://github.com/dath2006)
+3) Sathish Dath [Github](https://github.com/dath2006)
 # Introduction
 This repository contains the resources of the following 1st year courses in the 2022 scheme of RV College of Engineering
 # Courses in this repository
 ## Applied Science Courses
 1) [Fundamentals of Linear Algebra, Calculus & Statistics(MAT211CT)](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-rvce/tree/main/1st_sem/Mathematics)
+
+**Video Resources**
+- Linear Algebra playlist by Department of Mathematics, RVCE [Click Here](https://youtube.com/playlist?list=PLlzzm7LKQHC1zkIXcGlshq9e5C0UL7gvd&si=l-GXzlL91hD-6xHC)
+- First Year Maths playlist by Department of Mathematics, RVCE [Click Here](https://youtube.com/playlist?list=PLlzzm7LKQHC3foeKqiqL24TAOFcdpWPWt&si=FCfN94JN0_vrNdeN)
 2) [Number Theory, Vector Calculus & Computational Methods(MAT221CT)](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-rvce/tree/main/2nd%20sem/Maths(22MA21C))
+
+**Video Resources**
+- First Year Maths playlist by Department of Mathematics, RVCE [Click Here](https://youtube.com/playlist?list=PLlzzm7LKQHC3foeKqiqL24TAOFcdpWPWt&si=FCfN94JN0_vrNdeN)
 3) [Quantum Physics for Engineers(PHY221CI)](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-rvce/tree/main/2nd%20sem/Physics(22PH22C))
 4) [Chemistry of Engineering Materials(CHY221CI)](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-rvce/tree/main/1st_sem/Chemistry)
 ## Professional Core Courses
