@@ -4,8 +4,6 @@
 3) Sathish Dath [Github](https://github.com/dath2006)
 # Introduction
 This repository contains the resources of the following 1st year courses in the 2022 scheme of RV College of Engineering
-# Syllabus Book
-[Syllabus book](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-rvce/blob/main/Syllabus%20book.pdf)
 # Courses in this repository
 ## Applied Science Courses
 1) [Fundamentals of Linear Algebra, Calculus & Statistics(MAT211CT)](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-rvce/tree/main/1st_sem/Mathematics)
