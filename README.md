@@ -18,7 +18,7 @@ This repository contains the resources of the following 1st year courses in the 
 **Video Resources**
 - First Year Maths playlist by Department of Mathematics, RVCE [Click Here](https://youtube.com/playlist?list=PLlzzm7LKQHC3foeKqiqL24TAOFcdpWPWt&si=FCfN94JN0_vrNdeN)
 3) [Quantum Physics for Engineers(PHY221CI)](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-rvce/tree/main/2nd%20sem/Physics(22PH22C))
-4) [Chemistry of Engineering Materials(CHY221CI)](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-rvce/tree/main/1st_sem/Chemistry)
+4) [Chemistry of Smart Materials & Devices(CHY211AI)](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-rvce/tree/main/1st_sem/Chemistry)
 ## Professional Core Courses
 1) [Principles of Programming Using C(CS222AI)](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-rvce/tree/main/2nd%20sem/Programming%20in%20C(22CS23))
 2) [Computer Aided Engineering Graphics(ME112GL/ME122GL)](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-rvce/tree/main/1st_sem/CAED)
