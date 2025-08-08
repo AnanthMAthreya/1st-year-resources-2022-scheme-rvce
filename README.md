@@ -20,35 +20,35 @@
 This repository contains the resources of the following 1st year courses in the 2022 scheme of RV College of Engineering
 # Courses in this repository
 ## Applied Science Courses
-|**Sl no.**|**Course Name**|**Course code**|**Github link**|**Additional resources**|
+|**Sl no.**|**Course Name**|**Course code**|**Github**|**Additional resources**|
 |-|-|-|-|:-:|
 |1|Fundamentals of Linear Algebra, Calculus & Statistics|MAT211CT|[🔗](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-rvce/tree/main/1st_sem/Mathematics)|<table><tr><td>Linear Algebra playlist by Department of Mathematics, RVCE</td><td>[🔗](https://youtube.com/playlist?list=PLlzzm7LKQHC1zkIXcGlshq9e5C0UL7gvd&si=l-GXzlL91hD-6xHC)</td></tr><tr><td>First Year Maths playlist by Department of Mathematics</td><td>[🔗](https://youtube.com/playlist?list=PLlzzm7LKQHC3foeKqiqL24TAOFcdpWPWt&si=FCfN94JN0_vrNdeN)</td></tr></table>|
 |2|Number Theory, Vector Calculus & Computational Methods|MAT221CT|[🔗](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-rvce/tree/main/2nd%20sem/Maths(22MA21C))|<table><tr><td>First Year Maths playlist by Department of Mathematics</td><td>[🔗](https://youtube.com/playlist?list=PLlzzm7LKQHC3foeKqiqL24TAOFcdpWPWt&si=FCfN94JN0_vrNdeN)</td></tr></table>|
 |3|Quantum Physics for Engineers|PHY221CI|[🔗](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-rvce/tree/main/2nd%20sem/Physics(22PH22C))|**-**|
 |4|Chemistry of Smart Materials & Devices|CHY211AI|[🔗](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-rvce/tree/main/1st_sem/Chemistry)|**-**|
 ## Professional Core Courses
-|**Sl no.**|**Course Name**|**Course code**|**Github link**|
+|**Sl no.**|**Course Name**|**Course code**|**Github**|
 |-|-|-|-|
 |1|Principles of Programming Using C|CS222AI|[🔗](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-rvce/tree/main/2nd%20sem/Programming%20in%20C(22CS23))|
 |2|Computer Aided Engineering Graphics|ME112GL/ME122GL|[🔗](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-rvce/tree/main/1st_sem/CAED)|
 ## Engineering Science Courses
-|**Sl no.**|**Course Name**|**Course code**|**Github link**|
+|**Sl no.**|**Course Name**|**Course code**|**Github**|
 |-|-|-|-|
 |1|Principles of Electronics Engineering|EC113AT/EC123AT|[🔗](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-rvce/tree/main/Engineering%20Science%20courses(ESC)/Electronics%20ESC)|
 |2|Fundamentals of Mechanical Engineering|ME113AT/ME123AT|[🔗](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-rvce/tree/main/Engineering%20Science%20courses(ESC)/Mechanical(22ES24E))|
 |3|Basics of Electrical Engineering|EE113ATD/EE123ATD|[🔗](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-rvce/tree/main/Engineering%20Science%20courses(ESC)/Electrical%20ESC(EE113AT%2CEE123AT))|
 ## Emerging Technology Courses
-|**Sl no.**|**Course Name**|**Course code**|**Github link**|
+|**Sl no.**|**Course Name**|**Course code**|**Github**|
 |-|-|-|-|
 |1|Introduction to Embedded Systems|EC114BT/EC124BT|[🔗](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-rvce/tree/main/Emerging%20Technology%20Courses(ETC)/Embedded%20systems(22EM211))|
 |2|ELEMENTS OF BLOCKCHAIN TECHNOLOGY|CS114AT/CS124AT|[🔗](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-rvce/tree/main/Emerging%20Technology%20Courses(ETC)/Blockchain(CS124AT))|
 |3|Introduction to Internet of Things|AI114ATA|[🔗](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-rvce/tree/main/Emerging%20Technology%20Courses(ETC)/Introduction%20to%20Internet%20of%20Things(AI114ATA))|
 ## Programming Language Lab Courses
-|**Sl no.**|**Course Name**|**Course code**|**Github link**|
+|**Sl no.**|**Course Name**|**Course code**|**Github**|
 |-|-|-|-|
 |1|Introduction to Python Programming|AI115AI/AI125AI|[🔗](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-rvce/tree/main/Programming%20Language%20Course(PLC)/Python%20PLC)|
 ## Humanities & Social Sciences Courses
-|**Sl no.**|**Course Name**|**Course code**|**Github link**|
+|**Sl no.**|**Course Name**|**Course code**|**Github**|
 |-|-|-|-|
 |1|Fundamentals of Indian Constitution|HSS114CT/HSS124CT|[🔗](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-rvce/tree/main/1st_sem/Indian%20constitution)|
 |2|Scientific Foundations of Health: Yoga Practice|HSS115YL/HSS125YL|[🔗](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-rvce/tree/main/1st_sem/Indian%20constitution)|
