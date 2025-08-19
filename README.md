@@ -4,6 +4,7 @@
 |1|Ananth M Athreya|[🔗](https://github.com/AnanthMAthreya)|
 |2|Aditi Shastri|[🔗](https://github.com/AditiShastri)|
 |3|Sathish Dath|[🔗](https://github.com/dath2006)|
+|4|Shreesha|[🔗](https://github.com/shreesha84)
 # You can contribute
 ## What can you contribute?
 - Any notes and question papers related to __first year courses__ of the 2022 scheme of RVCE can be contributed.
